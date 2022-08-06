@@ -90,8 +90,19 @@ function NavBar() {
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
-            </Nav.Item>
 
+            </Nav.Item>
+              <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/training"
+                onClick={() => updateExpanded(false)}
+              >
+                <CgFileDocument style={{ marginBottom: "2px" }} /> training
+              </Nav.Link>
+            </Nav.Item>
+             
+           
             <Nav.Item>
               <Nav.Link
                 href="https://blogs.soumya-jit.tech/"
