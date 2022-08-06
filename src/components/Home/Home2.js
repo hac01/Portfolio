@@ -24,16 +24,16 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> C, Javascript and Python. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's are  new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Vulnerability Assessment and Penetration Testing</b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Active Directory and Mobile App Penetration Test .
                 </b>
               </i>
               <br />
@@ -77,7 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/hac10101"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/ayush-singh-b89642223/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+                  href="https://www.instagram.com/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
