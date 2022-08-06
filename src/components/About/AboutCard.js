@@ -13,7 +13,7 @@ function AboutCard() {
             <br />I am currently in high school . Who Loves breaking things as an ethical hacker so that others can be safe!.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from hacking, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
@@ -23,7 +23,7 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Coding
             </li>
           </ul>
 
