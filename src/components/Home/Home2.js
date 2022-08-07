@@ -11,6 +11,7 @@ import {
 
 import {
   SiHackthebox,
+  SiTryhackme,
 } from "react-icons/si";
 
 import { FaLinkedinIn } from "react-icons/fa";
@@ -70,6 +71,29 @@ function Home2() {
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>
+
+<li className="social-icons">
+                <a
+                  href="https://app.hackthebox.com/profile/485893"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <SiHackthebox />
+                </a>
+              </li>
+
+<li className="social-icons">
+                <a
+                  href="https://tryhackme.com/p/Ayushsingh"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <SiTryhackme />
+                </a>
+              </li>
+
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
@@ -82,16 +106,7 @@ function Home2() {
                 </a>
               </li>
 
-<li className="social-icons">
-                <a
-                  href="https://app.hackthebox.com/profile/485893"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <SiHackthebox />
-                </a>
-              </li>
+
 
 
               <li className="social-icons">
