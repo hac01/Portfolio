@@ -2,12 +2,18 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
+
 import {
   AiFillGithub,
   AiOutlineTwitter,
   AiOutlineSiHackthebox,
   AiFillInstagram,
 } from "react-icons/ai";
+
+import {
+  SiHackthebox,
+} from "react-icons/Si";
+
 import { FaLinkedinIn } from "react-icons/fa";
 
 function Home2() {
@@ -84,7 +90,7 @@ function Home2() {
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineSiHackthebox />
+                  <SiOutlineSiHackthebox />
                 </a>
               </li>
 
