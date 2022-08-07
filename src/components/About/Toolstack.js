@@ -27,10 +27,6 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiHeroku />
       </Col>
- <Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiKalilinux />
-      </Col>
     </Row>
   );
 }
