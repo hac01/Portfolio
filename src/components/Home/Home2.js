@@ -12,7 +12,7 @@ import {
 
 import {
   SiHackthebox,
-} from "react-icons/Si";
+} from "react-icons/si";
 
 import { FaLinkedinIn } from "react-icons/fa";
 
