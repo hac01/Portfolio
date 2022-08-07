@@ -75,7 +75,18 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-<script src="https://www.hackthebox.eu/badge/485893"></script>
+
+<li className="social-icons">
+                <a
+                  href="https://app.hackthebox.com/profile/485893"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiOutlineTwitter />
+                </a>
+              </li>
+
 
               <li className="social-icons">
                 <a
