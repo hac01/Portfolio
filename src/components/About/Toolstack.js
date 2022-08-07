@@ -6,6 +6,7 @@ import {
   SiPostman,
   SiHeroku,
   SiVercel,
+  SiKalilinux,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -25,6 +26,10 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiHeroku />
+      </Col>
+ </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiKalilinux />
       </Col>
     </Row>
   );
