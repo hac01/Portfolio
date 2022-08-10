@@ -114,6 +114,17 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
+
+   <Nav.Item>
+              <Nav.Link
+                href="https://medium.com/@hac10101"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <ImBlog style={{ marginBottom: "2px" }} /> Training
+              </Nav.Link>
+            </Nav.Item>
+
             <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/soumyajit4419/Portfolio"
