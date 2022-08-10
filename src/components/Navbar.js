@@ -84,11 +84,11 @@ function NavBar() {
 
               <Nav.Item>
               <Nav.Link
-                as={Link}
-                to="/Training"
-                onClick={() => updateExpanded(false)}
+                href="https://medium.com/@hac10101"
+                target="_blank"
+                rel="noreferrer"
               >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> Training
+                <ImBlog style={{ marginBottom: "2px" }} /> Training
               </Nav.Link>
             </Nav.Item>
 
@@ -102,6 +102,7 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
+
              
            
             <Nav.Item>
@@ -114,16 +115,6 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-
-   <Nav.Item>
-              <Nav.Link
-                href="https://medium.com/@hac10101"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <ImBlog style={{ marginBottom: "2px" }} /> Training
-              </Nav.Link>
-            </Nav.Item>
 
             <Nav.Item className="fork-btn">
               <Button
