@@ -28,7 +28,7 @@ function Projects() {
               title="Chatify"
               description="Discord Bot which let's you to run multiple tools like amass , subfinder , httpx etc. from discord app."
               ghLink="https://github.com/hac01/Astra-Bot"
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://github.com/hac01/Astra-Bot#example"
             />
           </Col>
 
