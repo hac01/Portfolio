@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import chatify from "../../Assets/Projects/62dc51bd-8128-4352-aac2-54ccb6b265f4.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
