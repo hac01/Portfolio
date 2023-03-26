@@ -21,7 +21,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
+              title="Astra Bot"
               description="Discord Bot which let's you to run multiple tools like amass , subfinder , httpx etc. from discord app."
               ghLink="https://github.com/hac01/Astra-Bot"
               demoLink="https://github.com/hac01/Astra-Bot#example"
