@@ -26,37 +26,19 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with computers and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C, Javascript and Python. </b>
-              </i>
+              As a cybersecurity student, I'm fluent in classic languages like C, JavaScript, and Python. 💻
               <br />
               <br />
-              My field of Interest's are  new &nbsp;
-              <i>
-                <b className="purple">Vulnerability Assessment and Penetration Testing</b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Active Directory and Mobile App Penetration Test .
-                </b>
-              </i>
+              My expertise lies in web app penetration testing 🔐, Active Directory security, and mobile app penetration testing 📱. I'm passionate about identifying vulnerabilities and providing effective solutions.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Python🐍</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  and Scripting Language like Bash
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> Bash</b>
-              </i>
+              I love developing tools and scripts using Python 🐍 and scripting languages like Bash, automating tasks and enhancing security assessments. ⚙️
+              <br />
+              <br />
+              With my skills and dedication, I'm on a mission to protect organizations from evolving threats in the digital world. 🛡️
+              <br />
+              <br />
+              I also make YouTube videos where I share my knowledge and insights. You can check out my channel [here](https://www.youtube.com/channel/hac1337) for informative content and cybersecurity tips.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -72,27 +54,27 @@ function Home2() {
               Feel free to <span className="purple">connect </span>with me
             </p>
 
-<li className="social-icons">
-                <a
-                  href="https://app.hackthebox.com/profile/485893"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <SiHackthebox />
-                </a>
-              </li>
+            <li className="social-icons">
+              <a
+                href="https://app.hackthebox.com/profile/485893"
+                target="_blank"
+                rel="noreferrer"
+                className="icon-colour  home-social-icons"
+              >
+                <SiHackthebox />
+              </a>
+            </li>
 
-<li className="social-icons">
-                <a
-                  href="https://tryhackme.com/p/Ayushsingh"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <SiTryhackme />
-                </a>
-              </li>
+            <li className="social-icons">
+              <a
+                href="https://tryhackme.com/p/Ayushsingh"
+                target="_blank"
+                rel="noreferrer"
+                className="icon-colour  home-social-icons"
+              >
+                <SiTryhackme />
+              </a>
+            </li>
 
             <ul className="home-about-social-links">
               <li className="social-icons">
@@ -105,10 +87,6 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-
-
-
-
               <li className="social-icons">
                 <a
                   href="https://twitter.com/hac10101"
@@ -129,14 +107,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
+      
                 </a>
               </li>
             </ul>
@@ -146,4 +117,5 @@ function Home2() {
     </Container>
   );
 }
+
 export default Home2;
