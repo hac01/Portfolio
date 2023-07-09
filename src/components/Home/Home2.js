@@ -38,7 +38,7 @@ function Home2() {
               With my skills and dedication, I'm on a mission to protect organizations from evolving threats in the digital world. 🛡️
               <br />
               <br />
-              I also make YouTube videos where I share my knowledge and insights. You can check out <a href="https://guileless-chebakia-0bba1c.netlify.app/" my channel /> for informative content and cybersecurity tips.
+              I also make YouTube videos where I share my knowledge and insights. You can check out my channel hac1337 for informative content and cybersecurity tips.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
