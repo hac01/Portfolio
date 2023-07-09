@@ -84,7 +84,7 @@ function NavBar() {
 
               <Nav.Item>
               <Nav.Link
-                href="https://medium.com/@hac10101"
+                href="https://guileless-chebakia-0bba1c.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
               >
