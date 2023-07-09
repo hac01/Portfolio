@@ -1,3 +1,6 @@
+![image](https://github.com/hac01/Portfolio/assets/70646122/b91c7a09-937f-4756-8356-3e4e250d6daf)
+
+
 <h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a>
