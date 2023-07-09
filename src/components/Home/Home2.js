@@ -38,7 +38,7 @@ function Home2() {
               With my skills and dedication, I'm on a mission to protect organizations from evolving threats in the digital world. 🛡️
               <br />
               <br />
-              I also make YouTube videos where I share my knowledge and insights. You can check out my channel [here](https://www.youtube.com/channel/hac1337) for informative content and cybersecurity tips.
+              I also make YouTube videos where I share my knowledge and insights. You can check out my channel [here](https://www.youtube.com/channel/yourchannel) for informative content and cybersecurity tips.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -107,7 +107,14 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-      
+              <li className="social-icons">
+                <a
+                  href="https://www.instagram.com/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <AiFillInstagram />
                 </a>
               </li>
             </ul>
